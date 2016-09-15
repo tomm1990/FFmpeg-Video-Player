@@ -4,8 +4,8 @@ by Tom Goldberg (ID 302815279)
 
 Instructions for compile and run files:
 1) open terminal and type "make all"
-2.1) to run only single video type in the terminal  ( XXXX <- screen size ) -> ./video LeanOn.mpg XXXX 
-2.2) to run two videos simultaneously type in the terminal 					-> ./video LeanOn.mpg Firestone.mpg
+2.1) to run only single video type in the terminal  ( XXXX <- screen size ) i.e-> ./video LeanOn.mpg XXXX 
+2.2) to run two videos simultaneously type in the terminal i.g-> ./video LeanOn.mpg Firestone.mpg
 3) while playing you can press this keys : 
 3.1) "R" : convert display to red colors
 3.2) "B" : convert display to blue colors

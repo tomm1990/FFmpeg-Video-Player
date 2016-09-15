@@ -1,5 +1,5 @@
 Exercise 2:UNIX system programming
-by Tom Goldberg (ID 302815279)
+by Tom Goldberg (tomg3210@gmail.com)
 
 
 Instructions for compile and run files:
